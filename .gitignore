@@ -1,0 +1,8 @@
+*conflicted*
+todo.txt
+done.txt
+someday.txt
+*cache*
+.git/
+.dropbox/
+.DS_Store
