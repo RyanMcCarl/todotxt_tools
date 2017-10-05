@@ -1,3 +1,11 @@
+*conflicted*
+todo.txt
+done.txt
+someday.txt
+*cache*
+.git/
+.dropbox/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
