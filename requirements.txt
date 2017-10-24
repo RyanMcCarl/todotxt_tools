@@ -1,0 +1,6 @@
+attrs==17.2.0
+coverage==4.4.1
+hypothesis==3.31.6
+py==1.4.34
+pytest==3.2.3
+pytest-runner==2.12.1
